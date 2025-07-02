@@ -1,2 +1,2 @@
 this is a new start of mergin g in the git
-iam excited
+this is conflict
