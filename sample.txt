@@ -1,3 +1,0 @@
-this is a task in the learning journey of devOps
-i'm so excited and having fun to learn devOps with aws
-
